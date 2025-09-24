@@ -11,6 +11,11 @@ My current goal is to obtain an internship to apply my technical skills to solve
 <a href="https://www.isc2.org/certifications/cc"> <img src="https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-2E8B57?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </a>
 
+<h2>Cybersecurity Projects:</h2>
+
+- <b>Python</b>
+  - [Scanning IP Address For Open Ports ](https://github.com/venikajarvis/Scanning-Open-Ports)
+
 <!--
 **venikajarvis/venikajarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
