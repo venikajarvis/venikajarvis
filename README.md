@@ -16,7 +16,7 @@ My current goal is to obtain an internship to apply my technical skills to solve
 - <b>Python</b>
   - [Scanning IP Address For Open Ports](https://github.com/venikajarvis/Scanning-Open-Ports)
 - <b>AWS (Amazon Web Services)</b>
-  - [Analyze AWS CloudTrail Logs](https://github.com/venikajarvis/Scanning-Open-Ports)
+  - [Analyze AWS CloudTrail Logs](https://github.com/venikajarvis/AWS-CloudTrail-Log-Analysis)
 <!--
 **venikajarvis/venikajarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
