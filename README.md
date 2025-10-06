@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/venikajarvis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
-I am a Cybersecurity master’s student at Pace University with 7+ years in supply chain (aerospace & CPG), pursuing interests in blue teaming, red teaming, and cloud computing. Always learning and always improving!
+I am a Cybersecurity master’s student at Pace University with 7+ years in supply chain (aerospace & CPG), pursuing interests in blue teaming, red teaming, operational technology security, industrial control systems security, and cloud computing. Always learning and always improving!
 
 ## Objective
 My current goal is to obtain an internship to apply my technical skills to solve business problems.
